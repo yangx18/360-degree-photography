@@ -1,0 +1,19 @@
+Sprint cycle thursday to thursday
+ - deliverable is a one page bulleted list of things that we did and this is their value
+
+Today
+ - Planning and documenting for tripod
+ - Researching hardware and software alternatives, cameras, and commercial products
+
+
+For Next week
+ - documented list of things that we need
+ - What do we know we need vs what we don't know we need
+ - We have these items, we can't fully assemble until we have these items
+ - Make it easier to identify road blocks
+
+Next week
+ - decide what the deliverable will be for release 2 on Nov 2nd
+ - Backlog of ___ things that we need to do to accomplish a larger goal
+
+Things don't have to be perfect. Looking to prove that this is a viable option for Spreetail
